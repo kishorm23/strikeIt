@@ -1,0 +1,27 @@
+textarea,input.field{background-color:rgba(219,219,219,0.8);border-radius:10px;padding:10px;color:rgba(235,50,46,0.8);opacity:60%;-webkit-transition:background 2s;font-weight:bold;}
+textarea,input.field:hover{background-color:(0,0,0,0.8);cursor:hand;}
+textarea,#text{background-color:white;padding:7px;color:black;}
+textarea{position:relative; height:150px;width:300px;}
+body{background-image:url("bg.jpg");}
+.header{line-height:180%;font:16px georgia;background-color:rgba(0,0,0,0.2);border-radius:20px;padding:2px;position:relative;top:0px;color:rgba(163,233,225,0.8);}
+.content{line-height:180%;font:20px courier;background-color:rgba(0,0,0,0.2);border-radius:20px;padding:20px;position:relative;top:2px;height:460px;}
+.logIn{line-height:180%;font:20px courier;background-color:rgba(0,0,0,0.2);border-radius:20px;padding:5px;width:700px;position:relative;top:10px;color:rgba(252,249,120,0.8);}
+.signUp{line-height:180%;font:20px courier;background-color:rgba(0,0,0,0.2);padding:5px;border-radius:20px;width:500px;position:relative;top:-150px;text-align:center;padding-top:0px;color:rgba(231,216,215,0.8);}
+#forgot{width:200px;margin-left:200px;font-size:15px;}
+a{text-decoration:none;}
+#create_con{height:500px;line-height:180%;font:20px courier;background-color:rgba(0,0,0,0.2);border-radius:20px;padding:20px;position:relative;top:2px;height:560px;}
+#profile{padding:5px;}
+.image{background-color:rgba(0,0,0,0.6);padding:30px;width:210px;height:230px;border-radius:20px;position:relative;left:200px;}
+#upload{position:relative;top:3px;width:105px;left:50px;}
+#content_pro{position:relative;top:-19px;}
+img{border-radius:20px;}
+#info{line-height:150%;font:18px courier;background-color:rgba(0,0,0,0.2);border-radius:20px;padding:20px;position:absolute;top:20px;left:520px;width:600px;height:500px;color:rgba(252,249,120,0.8);}
+#insti{position:relative;left:110px;}
+#contact{line-height:150%;font:18px courier;background-color:rgba(0,0,0,0.2);border-radius:20px;padding:20px;position:relative;top:80px;left:-20px;width:600px;color:rgba(252,249,120,0.8);}
+#about_me{line-height:150%;font:18px courier;background-color:rgba(0,0,0,0.2);border-radius:20px;padding:20px;position:relative;top:98px;left:-20px;width:600px;color:rgba(252,249,120,0.8);}
+#update{line-height:150%;font:18px courier;background-color:rgba(0,0,0,0.2);border-radius:20px;padding:20px;position:relative;top:120px;left:-20px;color:rgba(252,249,120,0.8);width:600px;text-align:center;}
+#link{line-height:150%;font:18px courier;background-color:rgba(0,0,0,0.2);border-radius:20px;padding:20px;position:absolute;top:300px;left:-310px;color:rgba(252,249,120,0.8);width:240px;text-align:center;}
+#captcha{border-radius:0px;}
+#error{padding:1px;font-family:courier;color:red;height:10px;}
+#created{text-align:center;padding:10px;line-height:180%;font:20px courier;background-color:rgba(0,0,0,0.2);border-radius:20px;width:700px;color:rgba(252,249,120,0.8);}
+#he{font:16px courier;position:relative;display:inline-block;margin:20px;}

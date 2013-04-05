@@ -1,0 +1,15 @@
+body{background-image:url('bg.jpg');}
+.header{line-height:180%;font:16px georgia;background-color:rgba(0,0,0,0.2);border-radius:20px;padding:2px;position:relative;top:0px;color:rgba(163,233,225,0.8);}
+.addbutton{position:absolute;left:600px;padding:5px;border-radius:5px;font-weight:bold;background-color:rgba(112,247,72,0.6);}
+.deletebutton{position:absolute;left:650px;padding:5px;border-radius:5px;font-weight:bold;background-color:rgba(248,35,35,0.6);}
+#addnew{padding:5px;border-radius:5px;font-weight:bold;background-color:rgba(112,247,72,0.6);}
+#header{background-color:rgba(0,0,0,0.2);padding:10px;position:absolute;top:0px;left:0px;width:100%;color:rgba(233,228,48,0.8);font:25px bold;}
+#content{font:20px "Goudy Old Style";width:700px;text-align:left;background-color:rgba(0,0,0,0.2);position:relative;top:50px;padding:20px;border-radius:20px;margin-left:80px;color:rgba(155,251,85,0.6);}
+li{padding:5px;font:20px "Goudy Old Style";font-weight:bold;}
+.textbox{padding:5px;font:18px "Goudy Old Style";font-weight:bold;border-radius:5px;width:200px;}
+.donebutton{position:absolute;left:550px;padding:5px;border-radius:5px;font-weight:bold;background-color:rgba(112,247,72,0.6);}
+#logout{background-color:rgba(0,0,0,0.2);padding:20px;color:rgba(252,249,120,0.8);font:18px "Goudy Old Style";font-weight:bold;text-align:right;margin-right:60px;}
+#logoutbutton{position:absolute;left:1300px;top:98px;}
+#title{font:23px "Goudy Old Style";font-weight:bold;color:rgba(252,249,120,0.8);}}
+#statistics{display:inline;}
+#ndone{color:rgba(255,191,191,0.6);}
